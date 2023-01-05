@@ -1,0 +1,29 @@
+.cover__background {
+    margin: auto;
+    background-image: url("../../../images/cover__overlay.png");
+    background-size: cover;
+    max-width: 1184px;
+    min-height: 714px;
+}
+
+@media screen and (max-width: 1024px) {
+    .cover__background {
+        width: 100vw;
+    }
+    
+}
+
+@media screen and (max-width: 768px) {
+    .cover__background {
+        min-height: 480px;
+    }
+    
+}
+
+@media screen and (max-width: 320px) {
+    .cover__background {
+        min-height: 200px;
+    }
+    
+}
+
