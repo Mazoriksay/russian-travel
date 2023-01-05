@@ -15,5 +15,3 @@
 
 ## Git hub PAGES:
 * https://mazoriksay.github.io/russian-travel
-
-g
