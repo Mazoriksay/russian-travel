@@ -4,11 +4,15 @@
     font-weight: 400;
     color: #fff;
     text-decoration: none;
+    margin-right: 18px;
 }
 
-.header__lang-link:first-of-type {
-    text-decoration: underline;
-    margin-right: 18px;
+.header__lang-link:last-of-type {
+    margin-right: 0;
+}
+
+.header__lang-link:hover {
+    opacity: 0.3;
 }
 
 @media screen and (max-width: 320px) {

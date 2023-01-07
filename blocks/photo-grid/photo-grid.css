@@ -20,7 +20,7 @@
     .photo-grid {
         padding-top: 88px;
         grid-template-columns: repeat(auto-fill, 352px);
-        grid-template-rows: repeat(auto-fill, 284px);
+        grid-template-rows: repeat(auto-fill, 264px);
         gap: 16px;
     } 
 }
