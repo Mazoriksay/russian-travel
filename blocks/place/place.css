@@ -18,7 +18,7 @@
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 808px) {
     .place {
         margin-bottom: 73px;
         grid-template-rows: min-content minmax(min-content, max-content);

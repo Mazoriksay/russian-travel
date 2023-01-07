@@ -3,7 +3,7 @@
     align-self: flex-end;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 808px) {
     .place__website {
         max-width: 352px;
     }

@@ -1,14 +1,15 @@
 .cover__background {
+    position: relative;
     margin: auto;
-    background-image: url("../../../images/cover__overlay.png");
+    background-image: url('../../../images/cover__overlay.png');
     background-size: cover;
     max-width: 1184px;
-    min-height: 714px;
+    min-height: 740px;
 }
 
 @media screen and (max-width: 1024px) {
     .cover__background {
-        width: 100vw;
+        max-width: 100vw;
         min-height: 640px;
     }
     
@@ -17,14 +18,11 @@
 @media screen and (max-width: 768px) {
     .cover__background {
         min-height: 480px;
-    }
-    
+    }  
 }
 
 @media screen and (max-width: 320px) {
     .cover__background {
         min-height: 200px;
-    }
-    
+    }  
 }
-
