@@ -12,7 +12,6 @@
 @media screen and (max-width: 1024px) {
     .cover__container {
         top: 195px;
-        max-width: 560px;
     }
     
 }
