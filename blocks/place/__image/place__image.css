@@ -11,17 +11,17 @@
 
 
 
-@media screen and (max-width: 820px) {
+@media screen and (max-width: 808px) {
     .place__image {
-        max-width: 340px;
+        width: 340px;
         height: 340px;
         padding: 0;
     }
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 320px) {
     .place__image {
-        max-width: 320px;
+        width: 320px;
         height: 320px;
     }
 }
